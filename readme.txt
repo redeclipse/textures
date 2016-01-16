@@ -3,7 +3,7 @@ In the absence of an explicit license, content is considered to be covered by
     obey individual licensing criteria. This does not apply to the Red Eclipse
     logo or other trademarks unique to the project.
 
-    Red Eclipse, Copyright (C) 2009-2015 Red Eclipse Team
+    Red Eclipse, Copyright (C) 2009-2016 Red Eclipse Team
     Creative Commons Attribution ShareAlike 3.0 License (CC-BY-SA)
     http://creativecommons.org/licenses/by-sa/3.0/
 
