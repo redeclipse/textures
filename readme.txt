@@ -3,7 +3,7 @@ In the absence of an explicit license, content is considered to be covered by
     obey individual licensing criteria. This does not apply to the Red Eclipse
     logo or other trademarks unique to the project.
 
-    Red Eclipse, Copyright (C) 2009-2019 Red Eclipse Team
+    Red Eclipse, Copyright (C) 2009-2024 Red Eclipse Team
     Creative Commons Attribution ShareAlike 4.0 License (CC-BY-SA)
     http://creativecommons.org/licenses/by-sa/4.0/
 
@@ -13,16 +13,16 @@ lava.jpg
 
 lava2.jpg
     Created by Matt "greaserpirate" Kalt
-	Copyright (C) 2009-2019 Red Eclipse Team
+	Copyright (C) 2009-2024 Red Eclipse Team
 	Creative Commons Attribution ShareAlike 4.0 License (CC-BY-SA)
 
 emblem.png, logo.png
     Created by Rémi "LuckystrikeRx" Clouet d'Orval
-	Copyright (C) 2009-2019 Red Eclipse Team
+	Copyright (C) 2009-2024 Red Eclipse Team
 	Creative Commons Attribution ShareAlike 4.0 License (CC-BY-SA)
 	In addition covered by "THE RED ECLIPSE MARK POLICY" (see trademark.txt included with this distribution)
 
 check*.png, radio*.png, guioverlay.png, guiexit.png
     Created by Maxim "acerspyro" Therrien
-    Copyright (C) 2014-2019 Red Eclipse Team
+    Copyright (C) 2014-2024 Red Eclipse Team
     Creative Commons Attribution ShareAlike 4.0 License (CC-BY-SA)
